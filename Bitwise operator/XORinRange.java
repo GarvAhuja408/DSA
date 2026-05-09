@@ -7,11 +7,9 @@ public class Main {
         return 0;
     }
 
-    // XOR from L to R
     static int findXOR(int L, int R) {
         return xorTillN(R) ^ xorTillN(L - 1);
     }
-
     public static void main(String[] args) {
         int L = 3, R = 5;
 
