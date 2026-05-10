@@ -1,4 +1,4 @@
-public class Main {
+public class XORinRange {
 
     static int xorTillN(int n) {
         if (n % 4 == 0) return n;
