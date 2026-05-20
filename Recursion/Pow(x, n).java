@@ -28,7 +28,8 @@ class Solution {
     }
 
     public static void main(String[] args) {
-
-        System.out.println(myPow(2, 10));
+        int x = 2;
+        int n = 10;
+        System.out.println(myPow(x,n));
     }
 }
