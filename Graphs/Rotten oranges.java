@@ -69,7 +69,6 @@ public class RottenOranges {
         }
         return (fresh==0) ? minutes : -1; 
     }                                                      
-    
 
     public static void main(String[] args) {
         
