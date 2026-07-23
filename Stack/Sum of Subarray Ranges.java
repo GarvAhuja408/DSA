@@ -3,7 +3,7 @@ import java.util.Stack;
 class Main {
 
     static long[] previousSmaller(int[] nums) {
-
+g
         int n = nums.length;
         long[] left = new long[n];
         Stack<Integer> stack = new Stack<>();
